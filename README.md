@@ -4,7 +4,7 @@
 
 I'm a **Senior DevOps Engineer** and **Cloud Architect** with over 9 years of experience designing scalable, secure, and cost-efficient cloud architectures on **AWS** and **GCP**. I specialize in **Infrastructure as Code (IaC)**, **CI/CD pipelines**, and **cloud-native solutions**, with a passion for automating infrastructure to streamline operations and accelerate delivery.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/joshua-r-coffey/) | 📍 Dallas, TX
+🔗 [LinkedIn](https://www.linkedin.com/in/joshua-r-coffey/) | 📍 Tyler, TX
 
 ---
 
