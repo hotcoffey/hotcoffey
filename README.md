@@ -12,7 +12,7 @@ I like to Record and Share **Knowledge** ☁️
 
 **Cloud Native, Serverless , and All Things Linux**☁️
 
-## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=hotcoffey)
+## My Repos are Below👇
 
 > I just looked that this stuff for the first time in a while and I think it's trash. Maintaining this is a bit a of full time job on top of my full time job on top of being a husband and raising a 4, 6, and 7 year old so I'm just going to leave it as is and update it when I have...that's that stuff called...oh yeah, TIME.
   
